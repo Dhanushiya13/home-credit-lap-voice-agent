@@ -1,0 +1,25 @@
+user: Hello. 
+agent: Hello, may I speak with Tara? My name is Astra, calling from Home Credit.
+user: Yeah. 
+agent: As a valued Home Credit customer, you may be eligible for a Loan Against Property of up to ₹75 lakh. I’ll ask a few quick questions to check the preliminary criteria. Is that okay?
+user: Yeah. Okay. Go ahead. 
+agent: What type of property would you like to offer—house or flat, shop or office, or factory?
+user: Hi mommy flat 
+agent: Do 
+user: I won't. 
+agent: you mean a flat that you own?
+user: Yeah. Yeah. 
+agent: Is the flat owned solely by you, or jointly with someone else?
+user: It was solely owned by me. 
+agent: Are the original property documents available for verification?
+user: Yes. I want the original document. 
+agent: What loan amount would you like to apply for?
+user: Twenty five lakhs. 
+agent: What do you do for work, and is your income received through a 
+user: I am 
+agent: bank account?
+user: self employed, and my customer pay me in cash. I do not receive this income through your bank. 
+agent: Thank you for sharing that. This offer requires income to be received through a bank account, so we can’t proceed with it at this stage. Thank you for your time.
+user: Okay. I understand. Bye. 
+agent: Goodbye, and thank you for your 
+agent: time.
