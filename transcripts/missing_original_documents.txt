@@ -1,0 +1,16 @@
+user: Hello. 
+agent: Hello, may I speak with Tara? My name is Astra, calling from Home Credit.
+user: Yeah. Can speak with Tara. 
+agent: Thanks. As a valued Home Credit customer, you may be eligible for a Loan Against Property of up to ₹75 lakh. Can I ask a few brief questions to check the preliminary criteria?
+user: Yeah. Go ahead. 
+agent: What type of property would you like to offer—house, flat, shop, office, or factory?
+user: I own a residential house. 
+agent: Is the house solely owned by you, or jointly owned with someone else?
+user: It is jointly owned. 
+agent: Are 
+user: with my brother. 
+agent: Are the original property documents available for verification?
+user: Actually, I do not have the original document with me. I only have photocopies. 
+agent: I’m sorry, but original property documents are required for verification under this offer, so we can’t proceed at this stage. Thank you for your time.
+user: Yeah. Okay. Thank you. 
+agent: You're welcome. Goodbye.
