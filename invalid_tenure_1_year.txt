@@ -1,0 +1,10 @@
+user: Hello. 
+agent: Hello, may I speak with Arjun? My name is Priya, calling from Home Credit.
+user: Yes. This is Arjun. I can talk. 
+agent: As a valued Home Credit customer, you may be eligible for a Loan Against Property of up to ₹75 lakh. I’ll ask a few brief questions to check preliminary eligibility. Is that okay?
+user: Yeah. It's okay for me. 
+agent: What type of property would you like to offer—house, flat, shop, office, factory, or something else?
+user: It is a residual house It is solely owned by me, and I have the original property documents. I need forty lakhs. My salary come into my bank account. The house is worth around eighty lakhs. I want a year venture. 
+agent: Thanks. A one-year tenure isn’t available; the repayment period must be between 3 and 15 years. Thank you for your time.
+user: Yeah. Okay. Thanks. For clarifying. 
+agent: You're welcome. Goodbye.
