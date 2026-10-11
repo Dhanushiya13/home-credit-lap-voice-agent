@@ -1,0 +1,10 @@
+user: Hello. 
+agent: Hello, may I speak with Tara? My name is Astra, calling from Home Credit.
+user: Yeah. 
+agent: As a valued Home Credit customer, you may be eligible for a Loan Against Property of up to ₹75 lakh. I’ll ask a few brief questions for preliminary eligibility. Is now a good time?
+user: Currently, I'm busy. 
+agent: Alright, what time would suit you for a callback?
+user: After five PM, 
+agent: I’ll note that you prefer a callback after 5 PM. Thank you for your time.
+user: Yeah. Thank you. 
+agent: You're welcome. Goodbye.
