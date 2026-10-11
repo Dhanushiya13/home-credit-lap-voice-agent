@@ -84,7 +84,7 @@ Test scenarios included:
 
 The test calls and their corresponding transcripts are organised in the repository. Audio recordings are linked through the README in the `audios/` folder.
 
-## 9. Conclusion
+## 7. Conclusion
 
 This project demonstrates how prompt engineering and conversational AI can be used to automate preliminary loan qualification through a voice interface.
 
