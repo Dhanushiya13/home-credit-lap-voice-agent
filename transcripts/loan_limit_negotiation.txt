@@ -1,0 +1,28 @@
+user: Hello. 
+agent: Hello, may I speak with Tara? My name is Astra, calling from Home Credit.
+user: No. This is not Clara. 
+agent: My apologies. I have the wrong number. Goodbye.
+user: I said this is not Clara. 
+user: But I'm Tara. 
+agent: My apologies, Tara. May I confirm that I’m speaking with you?
+user: Yeah. It's me, Tara. 
+agent: Are you available for a brief call about a Home Credit 
+user: Yeah. 
+agent: loan offer?
+user: Go ahead. 
+agent: As a valued Home Credit customer, you may be eligible for a Loan Against Property of up to ₹75 lakh. I’ll ask a few brief questions for preliminary eligibility. Is that okay?
+user: Yeah. Okay. 
+agent: What type of property would you like to offer—house or flat, shop or office, or factory?
+user: Hi. I have a residential house solely owned by me. Have the original documents, I need ninety lakhs. I'm salaried, and my salary come into my bank account. The house is worth one point two crore, and I want here ten year tender. 
+agent: Thanks. Your requested amount exceeds this offer’s ₹75 lakh limit. Would you like to proceed with ₹75 lakh instead?
+user: Yeah. Okay. Can I know the reason? 
+agent: This specific offer is capped at ₹75 lakh, so we can only assess up to that amount. Would you like to proceed with ₹75 lakh?
+user: Yeah. Okay. 
+user: I'm okay with that. 
+agent: Thank you for providing the details. Based on your responses, you meet the preliminary criteria for the next stage. A senior loan expert will follow up to review your requirements, verify the property details, and explain the applicable interest rate and other loan terms.
+user: Yeah. Okay. When will he contact us? 
+agent: A senior loan expert will contact you to discuss the next steps. I don’t have a confirmed timeframe to share.
+user: Yeah. Okay. Thank you. 
+agent: Thank you for your time. Goodbye.
+user: Okay. Bye. 
+agent: Goodbye.
