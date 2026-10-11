@@ -1,0 +1,4 @@
+user: Hello. 
+agent: Hello, may I speak with Tara? My name is Astra, calling from Home Credit.
+user: No. This is not Tara. 
+agent: My apologies, we’ll update our records. Goodbye.
