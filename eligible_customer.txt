@@ -1,4 +1,21 @@
 user: Hello. 
-agent: Hello, may I speak with Tara? My name is Astra, calling from Home Credit.
-user: No. This is not Tara. 
-agent: My apologies, we’ll update our records. Goodbye.
+agent: Hello, may I speak with Arjun? My name is Priya, calling from Home Credit.
+user: Yeah. 
+agent: Is this Arjun?
+user: Yeah. This is Arjun. 
+agent: As a valued Home Credit customer, you may be eligible for a Loan Against Property of up to ₹75 lakh. I just need to ask a few brief questions for a preliminary check. Is that okay?
+user: It's okay for me. You can ask. 
+agent: What type of property would you like to offer—house or flat, shop or office, or factory?
+user: It is a residential house It is solely owned by me. 
+user: As I have the original property documents I need forty lakhs. 
+user: The house is worth around eighty lakhs. I want a ten year tenure. 
+agent: What do you do for work, and is your income received through a bank account?
+user: I am salaried. My salary come into my bank account. I work as a doctor. 
+agent: Thank you for providing those details. Based on your responses, you meet the preliminary criteria for the next stage. A senior loan expert will follow up to review your requirements, verify the property details, and explain the applicable interest rate and other loan terms.
+user: Yeah. Thank you. 
+agent: You're 
+user: I will wait for the to contact me. 
+agent: Thank you, Arjun. Have a good day.
+user: Yeah. Okay. Bye. 
+agent: Goodbye, Arjun. Have a good 
+agent: day.
