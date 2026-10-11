@@ -1,0 +1,11 @@
+user: Hello. 
+agent: Hello, may I speak with Tara? My name is Astra, calling from Home Credit.
+user: Yeah. 
+agent: As a valued Home Credit customer, you may be eligible for a Loan Against Property of up to ₹75 lakh. I’ll ask a few brief questions to check the preliminary criteria. Is that okay?
+user: I already own own I own 
+user: Hello? Am I audible? 
+agent: Yes, I can hear you. You mentioned you own a property—what type is it: a house or flat, shop or office, or factory?
+user: No. I mean, I have already own your loan. And I would like to reduce their EMI in home credit, 
+agent: This requirement is better handled by our loan-transfer specialist. The relevant team will contact you shortly to discuss your options. Thank you for your time.
+user: Yeah. Okay. Thank you. 
+agent: You're welcome. Goodbye.
