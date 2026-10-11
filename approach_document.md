@@ -84,17 +84,7 @@ Test scenarios included:
 
 The test calls and their corresponding transcripts are organised in the repository. Audio recordings are linked through the README in the `audios/` folder.
 
-## 7. Observations and Areas for Improvement
-
-Testing helped identify opportunities to improve the agent's conversational consistency.
-
-- **Avoid repeated confirmation:** Once a customer clearly accepts the ₹75 lakh limit, the agent should record the acceptance and continue without asking the same question again.
-- **Handle identity corrections carefully:** When a customer clarifies their name, the agent should acknowledge the correction and confirm the identity before deciding that the number is incorrect.
-- **Clarify ambiguous responses:** When a response about documents or property ownership is unclear, the agent should ask a brief clarification rather than making an assumption.
-- **Improve natural turn-taking:** Some test conversations contained interruptions or fragmented speech. The agent should allow the customer to finish and respond naturally.
-- **Keep outcomes transparent:** The agent should communicate preliminary eligibility only, leaving property verification, final approval, interest rates, and detailed loan terms to the senior expert.
-
-## 8. Conclusion
+## 9. Conclusion
 
 This project demonstrates how prompt engineering and conversational AI can be used to automate preliminary loan qualification through a voice interface.
 
