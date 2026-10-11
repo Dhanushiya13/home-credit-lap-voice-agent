@@ -1,0 +1,10 @@
+user: Hello? 
+agent: Hello, may I speak with Arjun? My name is Priya, calling from Home Credit.
+user: Yeah. You're speaking with Arjun. 
+agent: Hi Arjun. As a valued Home Credit customer, you may be eligible for a Loan Against Property of up to ₹75 lakh. I’ll ask a few quick questions for preliminary eligibility. Is that okay?
+user: Yeah. Okay. You can ask. 
+agent: What type of property would you like to offer—house or flat, shop or office, or factory?
+user: I own Agricultural Land. 
+agent: I’m sorry, but agricultural property isn’t eligible for this offer. Thank you for your time.
+user: Yeah. Thank you. 
+agent: You're welcome. Goodbye.
